@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Bilal
 - 👀 I’m interested in job in Development/Testing/Security
-- 🌱 I’m currently learning HTML/CSS/Python
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-bilal-3575935b/
 
